@@ -40,7 +40,7 @@ import plotly.express as px # Visualização
 Uma explicação do conteúdo em "songs_normalize.csv".
 
 | Nome da coluna        | Significado           |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:|
 | "artist" |  Nome do artista | 
 | "song" |  Nome da faixa | 
 | "duration_ms" | Duração da faixa em milissegundos |
