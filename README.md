@@ -4,7 +4,7 @@
 
 **Última actualização:** 30 de maio de 2022
 
-Conjunto de dados das músicas do Top Hits do Spotify entre 2000 e 2019. Dados que recolhemos no dia 11 de junho de 2022 em [link kaggle](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019), disponíveis em `songs_normalize.csv`.
+Conjunto de dados das músicas do Top Hits do Spotify entre 2000 e 2019. Dados que recolhemos no dia 11 de junho de 2022 em [Top Hits no Spotify (2000-2019)](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019), disponíveis em `songs_normalize.csv`.
 
 Fonte dos dados: www.kaggle.com
 
