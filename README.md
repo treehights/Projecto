@@ -72,8 +72,8 @@ Uma explicação do conteúdo em "songs_normalize.csv".
 | `instrumentalness` | Prevê se uma faixa não contém vocais. Neste contexto, os sons "Ooh" e "aah" são tratados como instrumentais. As faixas de rap ou de palavras faladas são claramente "vocais". Quanto mais próximo o valor instrumental for de 1,0, maior a probabilidade de a faixa não conter qualquer conteúdo vocal. Valores acima de 0,5 destinam-se a representar faixas instrumentais. |
 | `liveness` | Detecta a presença de um público na gravação. Valores mais elevados representam uma maior probabilidade de que a música tenha sido executada ao vivo. Um valor acima de 0,8 fornece uma forte probabilidade de que a faixa seja executada ao vivo. |
 | `valence` | Uma medida de 0,0 a 1,0 que representa a positividade musical transmitida por uma faixa. Músicas com valência alta soam mais positivas (felizes, alegres, eufóricas), enquanto faixas com valência baixa soam mais negativas (tristes, deprimidas, zangadas). |
-| `tempo` | O tempo global estimado de uma faixa em batidas por minuto (BPM). Em terminologia musical, tempo é a velocidade ou ritmo de uma determinada peça e deriva directamente da duração média da batida |
-| `genre` | Género da música |
+| `tempo` | O tempo global estimado de uma faixa em batidas por minuto (BPM). Em terminologia musical, tempo é a velocidade ou ritmo de uma determinada peça e deriva directamente da duração média da batida. |
+| `genre` | Género da música. |
 
 
 
