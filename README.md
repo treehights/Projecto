@@ -30,11 +30,16 @@ O repositório está organizado da seguinte forma:
 # API
 
 Os API's usados são:
-import numpy as np # Álgebra linear
-import pandas as pd 
-import matplotlib.pyplot as plt # Visualização
-import seaborn as sns # Visualização baseada no matplotlib
-import plotly.express as px # Visualização
+
+numpy  # Álgebra linear
+
+pandas
+
+matplotlib.pyplot  # Visualização
+
+seaborn  # Visualização baseada no matplotlib
+
+plotly.express  # Visualização
 
 # Dicionário dos Dados
 
