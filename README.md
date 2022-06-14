@@ -41,7 +41,7 @@ Uma explicação do conteúdo em "songs_normalize.csv".
 
 | Nome da coluna        | Significado           |
 | ------------- |:-------------:|
-| "artist" |  Nome do artista | 
+| `artist` |  Nome do artista | 
 | "song" |  Nome da faixa | 
 | "duration_ms" | Duração da faixa em milissegundos |
 | "explicit" | A letra ou o conteúdo de uma música que contém um ou mais dos critérios que podem ser considerados ofensivos ou inadequados para crianças |
