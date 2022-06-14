@@ -26,7 +26,7 @@ O repositório está organizado da seguinte forma:
 
 **Spotify Top Hits 2000 - 2019.ipynb:** Ficheiro Jupyter Notebook Python com código de processamento de análise do Top Hits do Spotify entre 2000 e 2019. 
 
-**songs_normalize.csv:** contém o conjunto de dados em formato csv.
+**songs_normalize.csv:** Contém o conjunto de dados em formato csv.
 
 **Readme.md:** Breve descrição do projecto
 
