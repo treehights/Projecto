@@ -9,10 +9,14 @@ Conjunto de dados das músicas do Top Hits do Spotify entre 2000 e 2019. Dados q
 Fonte dos dados: www.kaggle.com
 
 
+
+
 # Contexto
 
 A indústria da música tem vindo a crescer e desenvolvemos este projeto para perceber melhor as preferências musicais do mundo, a evolução dos gêneros musicais ao longo dos anos e quais os artistas que se destacam através da análise do Top Hits do Spotify. 
 Estes dados também podem vir a ser relevantes para entender o crescimento da própria aplicação em termos de usuários, que se pode refletir no número de vezes que os Top Hits foram escutados. Pode ser útil para saber quais são os artistas mais populares neste período de tempo, saber se há mais Top Hits com ou sem conteúdo explicito,etc.
+
+
 
 
 
@@ -25,6 +29,8 @@ O repositório está organizado da seguinte forma:
 **songs_normalize.csv:** contém o conjunto de dados em formato csv.
 
 **Readme.md:** Breve descrição do projecto
+
+
 
 
 # API
@@ -40,6 +46,9 @@ matplotlib.pyplot  # Visualização
 seaborn  # Visualização baseada no matplotlib
 
 plotly.express  # Visualização
+
+
+
 
 # Dicionário dos Dados
 
@@ -65,6 +74,8 @@ Uma explicação do conteúdo em "songs_normalize.csv".
 | `valence` | Uma medida de 0,0 a 1,0 que representa a positividade musical transmitida por uma faixa. Músicas com valência alta soam mais positivas (felizes, alegres, eufóricas), enquanto faixas com valência baixa soam mais negativas (tristes, deprimidas, zangadas). |
 | `tempo` | O tempo global estimado de uma faixa em batidas por minuto (BPM). Em terminologia musical, tempo é a velocidade ou ritmo de uma determinada peça e deriva directamente da duração média da batida |
 | `genre` | Género da música |
+
+
 
 
 
